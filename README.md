@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**l1ghbe/l1ghbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Ivan, and I am a front-end developer with over 3 years of experience in building interactive web applications of different scope. I thrive on turning ideas into reality through code, and I'm always eager to learn and explore new technologies.
+
+## 🚀 Technologies & Tools
+
+- **Front-End:** React, Next.js, JavaScript, Typescript, HTML5, CSS3, SASS/SCSS
+- **Back-End:** Node.js, Express.js, MongoDB, PostgreSQL, GraphQL
+- **Version Control:** Git, GitHub. Gitlab
+- **Code Editor:** VSCode
+
